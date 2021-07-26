@@ -1,3 +1,23 @@
+#Addition with fixed value in Variable
 x = 5
 y = 10
-print(x + y)
+sum=x+y
+print("the sum is",sum);
+
+#Subtraction with fixed value in Variable
+x = 15
+y = 10
+z=x-y
+print("the diff is",z);
+
+#Multiplication with fixed value in Variable
+x = 15
+y = 10
+z=x*y
+print("the Product is",z);
+
+#Division with fixed value in Variable
+x = 150
+y = 10
+z=x/y
+print("the quotient is",z);
